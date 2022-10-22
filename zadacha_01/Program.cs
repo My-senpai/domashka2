@@ -9,7 +9,5 @@
 Console.WriteLine("Введите трехзначное число");
 string numStr = Console.ReadLine() ??"";
 int num = Convert.ToInt32(numStr);
-
-int result = num / 10;
-int final = result % 10;
-Console.WriteLine($"вторая цифра числа {num} - это {final}");
+int result = num / 10 % 10;
+Console.WriteLine($"вторая цифра числа {num} - это {result}");

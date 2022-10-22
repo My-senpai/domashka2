@@ -6,7 +6,7 @@
 782 -> 8
 918 -> 1
 */
-Console.WriteLine("Введите трехзначное число");
+Console.WriteLine("Введите трехзначное число") ??"";
 string numStr = Console.ReadLine();
 int num = Convert.ToInt32(numStr);
 

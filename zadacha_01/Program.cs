@@ -6,8 +6,8 @@
 782 -> 8
 918 -> 1
 */
-Console.WriteLine("Введите трехзначное число") ??"";
-string numStr = Console.ReadLine();
+Console.WriteLine("Введите трехзначное число");
+string numStr = Console.ReadLine() ??"";
 int num = Convert.ToInt32(numStr);
 
 int result = num / 10;

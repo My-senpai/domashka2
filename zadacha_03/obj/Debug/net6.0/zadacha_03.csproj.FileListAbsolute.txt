@@ -1,0 +1,15 @@
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\bin\Debug\net6.0\zadacha_03.exe
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\bin\Debug\net6.0\zadacha_03.deps.json
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\bin\Debug\net6.0\zadacha_03.runtimeconfig.json
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\bin\Debug\net6.0\zadacha_03.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\bin\Debug\net6.0\zadacha_03.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.csproj.AssemblyReference.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.AssemblyInfoInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.AssemblyInfo.cs
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.csproj.CoreCompileInputs.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\refint\zadacha_03.dll
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.pdb
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\zadacha_03.genruntimeconfig.cache
+C:\Users\sanya\OneDrive\Рабочий стол\C#\DZ2\zadacha_03\obj\Debug\net6.0\ref\zadacha_03.dll
